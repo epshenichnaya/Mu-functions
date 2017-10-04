@@ -4,10 +4,10 @@ var toyterrier = {};
 chihuahua = {
     dog: 'Elya',
     game: function () {
-        console.log('gav gav')
+        console.log('gav gav');
     },
     run: function () {
-        console.log('бег')
+        console.log('бег');
     },
 	mydog: function () {
         this.dog ='beloved';
@@ -21,10 +21,10 @@ chihuahua.run();
 toyterrier = {
     dog: 'Gabby',
     sleep:  function () {
-        console.log('Рррр')
+        console.log('Рррр');
     },
     eat: function () {
-        console.log('ням ням')
+        console.log('ням ням');
     },
     mydog: function () {
         this.dog ='beloved';
