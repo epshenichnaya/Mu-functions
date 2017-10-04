@@ -9,7 +9,7 @@ chihuahua = {
     run: function () {
         console.log('бег');
     },
-	mydog: function () {
+    mydog: function () {
         this.dog ='beloved';
         console.log(this.dog);
     }
